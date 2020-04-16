@@ -10,7 +10,7 @@ use strict;
 use warnings;
 
 our $LIST = {
-    summary => 'Modules that parses command-line options',
+    summary => 'Modules that parse command-line options',
     entry_features => {
         uses_spec => {summary => 'Whether user need to specify some sort of "spec" (list of options and potentially more details)'},
         uses_getopt_long => {summary => 'Whether module uses Getopt::Long (or is Getopt::Long itself)'},
