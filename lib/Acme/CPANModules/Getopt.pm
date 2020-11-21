@@ -1,4 +1,4 @@
-package Acme::CPANModules::GetoptModules;
+package Acme::CPANModules::Getopt;
 
 # AUTHORITY
 # DATE
